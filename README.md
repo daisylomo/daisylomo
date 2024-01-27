@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @daisylomo
-- 👀 I’m interested in almost everything
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning python
-@daisy.lomo on IG
-@daisylomo on X
 
 <!---
 daisylomo/daisylomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
